@@ -1,9 +1,9 @@
-package com.codingshuttle.cachingApp.services.impl;
+package com.cachingApp.services.impl;
 
-import com.codingshuttle.cachingApp.entities.Employee;
-import com.codingshuttle.cachingApp.entities.SalaryAccount;
-import com.codingshuttle.cachingApp.repositories.SalaryAccountRepository;
-import com.codingshuttle.cachingApp.services.SalaryAccountService;
+import com.cachingApp.entities.Employee;
+import com.cachingApp.entities.SalaryAccount;
+import com.cachingApp.repositories.SalaryAccountRepository;
+import com.cachingApp.services.SalaryAccountService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Propagation;

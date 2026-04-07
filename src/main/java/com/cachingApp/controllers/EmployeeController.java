@@ -1,9 +1,9 @@
-package com.codingshuttle.cachingApp.controllers;
+package com.cachingApp.controllers;
 
-import com.codingshuttle.cachingApp.dto.EmployeeDto;
-import com.codingshuttle.cachingApp.entities.SalaryAccount;
-import com.codingshuttle.cachingApp.services.EmployeeService;
-import com.codingshuttle.cachingApp.services.SalaryAccountService;
+import com.cachingApp.dto.EmployeeDto;
+import com.cachingApp.entities.SalaryAccount;
+import com.cachingApp.services.EmployeeService;
+import com.cachingApp.services.SalaryAccountService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

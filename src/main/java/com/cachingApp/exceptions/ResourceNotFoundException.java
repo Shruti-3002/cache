@@ -1,4 +1,4 @@
-package com.codingshuttle.cachingApp.exceptions;
+package com.cachingApp.exceptions;
 
 public class ResourceNotFoundException extends RuntimeException{
     public ResourceNotFoundException(String message) {

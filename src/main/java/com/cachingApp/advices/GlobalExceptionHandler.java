@@ -1,6 +1,6 @@
-package com.codingshuttle.cachingApp.advices;
+package com.cachingApp.advices;
 
-import com.codingshuttle.cachingApp.exceptions.ResourceNotFoundException;
+import com.cachingApp.exceptions.ResourceNotFoundException;
 import lombok.extern.slf4j.Slf4j;
 import org.hibernate.StaleObjectStateException;
 import org.springframework.http.HttpStatus;

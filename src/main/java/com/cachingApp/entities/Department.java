@@ -1,4 +1,4 @@
-package com.codingshuttle.cachingApp.entities;
+package com.cachingApp.entities;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;

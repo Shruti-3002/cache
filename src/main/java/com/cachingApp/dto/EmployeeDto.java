@@ -1,4 +1,4 @@
-package com.codingshuttle.cachingApp.dto;
+package com.cachingApp.dto;
 
 import lombok.Data;
 

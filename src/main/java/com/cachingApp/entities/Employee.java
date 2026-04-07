@@ -1,4 +1,4 @@
-package com.codingshuttle.cachingApp.entities;
+package com.cachingApp.entities;
 
 import jakarta.persistence.*;
 import lombok.*;

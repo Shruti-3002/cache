@@ -1,4 +1,4 @@
-package com.codingshuttle.cachingApp.entities;
+package com.cachingApp.entities;
 
 import com.fasterxml.jackson.annotation.JsonIgnore;
 import jakarta.persistence.*;

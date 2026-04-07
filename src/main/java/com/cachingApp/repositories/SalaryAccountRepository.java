@@ -1,6 +1,6 @@
-package com.codingshuttle.cachingApp.repositories;
+package com.cachingApp.repositories;
 
-import com.codingshuttle.cachingApp.entities.SalaryAccount;
+import com.cachingApp.entities.SalaryAccount;
 import jakarta.persistence.LockModeType;
 import org.springframework.data.jpa.repository.Lock;
 import org.springframework.data.repository.CrudRepository;

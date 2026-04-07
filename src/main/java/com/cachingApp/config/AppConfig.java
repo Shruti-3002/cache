@@ -1,4 +1,4 @@
-package com.codingshuttle.cachingApp.config;
+package com.cachingApp.config;
 
 import org.modelmapper.ModelMapper;
 import org.springframework.context.annotation.Bean;
